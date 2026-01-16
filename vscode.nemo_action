@@ -2,7 +2,9 @@
 
 Active=true
 Name=Open in VS Code
+Name[it]=Apri con Code
 Comment=Opens current folder in VS Code
+Comment[it]=Apri la directory corrente con VS Code
 Exec=code %P
 Icon-Name=com.visualstudio.code
 Selection=none
